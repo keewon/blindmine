@@ -1,0 +1,29 @@
+Blindmine 0.3 -- mine sweeper clone for the visually impaired people
+Copyright 2005 Seo, Kee-won <oedalpha@gmail.com>
+Homepage:  http://blindmine.kldp.net/
+
+Blindmine is based on Pysweeper which is made by Brett Smith
+<bcsmit1@engr.uky.edu>
+
+This program is free software; you can redistribute it and/or modify it
+under the terms of the GNU General Public License as published by the Free
+Software Foundation; either version 2 of the License, or (at your option)
+any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT
+ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
+FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for
+more details.
+
+You should have received a copy of the GNU General Public License along
+with this program; if not, write to the Free Software Foundation, Inc., 59
+Temple Place, Suite 330, Boston, MA, 02111-1307.
+ 
+Blindmine requires working installations of Python and Pygame,
+which are available from <http://www.python.org/> and
+<http://www.pygame.org/> respectively.  However, I can only test it on my
+Windows XP and MacOSX Panther, where I use Python 2.3.4 and Pygame 1.5.
+
+How to run:
+for windows executable: just use run.bat
+for people who has downloaded source code: pythonw blindmine.py
