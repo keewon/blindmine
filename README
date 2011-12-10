@@ -1,6 +1,6 @@
-Blindmine 0.3 -- mine sweeper clone for the visually impaired people
-Copyright 2005 Seo, Kee-won <oedalpha@gmail.com>
-Homepage:  http://blindmine.kldp.net/
+Blindmine 0.3 -- mine sweeper clone with audio feedback
+Copyright 2005 Keewon Seo
+Homepage:  http://github.com/oedalpha/blindmine
 
 Blindmine is based on Pysweeper which is made by Brett Smith
 <bcsmit1@engr.uky.edu>
